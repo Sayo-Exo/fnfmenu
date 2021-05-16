@@ -2,7 +2,7 @@
 Includes: 
   - Week 7
   - Week 7 mods
-  - Week 7 assets ([finding the assets](#Finding%20the%20assets))
+  - Week 7 assets ([finding the assets](#finding-the-assets))
 
 Working on:
   - Mod creator (that'll take a while)
