@@ -9,4 +9,4 @@ assignees: ''
 
 ## What mod is it?
 
-## What's the link? (Not direct download, just to the homepage (eg. (https://gamebanana.com/mods/285101)[gamebanana])
+## What's the link? (Not direct download, just to the homepage (eg. [gamebanana](https://gamebanana.com/mods/285101))
